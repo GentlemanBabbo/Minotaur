@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="55"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Skills" type="LSString" value="Athletics, Insight, Intimidation, Persuasion, Survival, Acrobatics, Animal Handling, History"/> The list of skills to pick from
+                    <attribute id="UUID" type="guid" value="be52270c-9b0d-4940-bcee-947152260c06"/> The UUID, needs to be unique
+                </node>		
+            </children>
+        </node>
+    </region>
+</save>
