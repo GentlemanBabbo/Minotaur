@@ -163,11 +163,6 @@
 						<node id="MaterialOverrides">
 							<attribute id="MaterialResource" type="FixedString" value="" />
 							<children>
-								<node id="ColorPreset">
-									<attribute id="ForcePresetValues" type="bool" value="False" />
-									<attribute id="GroupName" type="FixedString" value="" />
-									<attribute id="MaterialPresetResource" type="FixedString" value="" />
-								</node>
 								<node id="MaterialPresets">
 									<children>
 										<node id="Object">
