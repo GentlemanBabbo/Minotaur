@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
 					<attribute id="BodySetVisual" type="FixedString" value="d4954688-0a2b-440e-8acb-a36c67847e7c" /> body model
-					<attribute id="ID" type="FixedString" value="3440edf4-e601-40a4-ac16-571de7960824" /> must be unique		
+					<attribute id="ID" type="FixedString" value="d44d5f5b-87be-443e-9680-648b69babc8c" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Minotaur" />	localised name
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />	does it display equipped armour?
@@ -46,7 +46,7 @@
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
 					<attribute id="BodySetVisual" type="FixedString" value="06bf157a-ce84-44a7-8f38-57e8e5ec09f9" />
-					<attribute id="ID" type="FixedString" value="365da39d-6afa-41ec-84ee-6ad4f2117f23" />
+					<attribute id="ID" type="FixedString" value="02aa6b55-d041-4e87-baf6-211b7c393a2e" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Minotaur" />					
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
