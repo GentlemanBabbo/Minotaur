@@ -59,9 +59,6 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>
-								<node id="Tag">
 									<attribute id="Object" type="guid" value="248abd3f-38a2-4157-92f0-0f1b21394bbb" /> Custom Sub Race tag
 								</node>
 							</children>
@@ -83,9 +80,6 @@
 					<children>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
-								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="248abd3f-38a2-4157-92f0-0f1b21394bbb" /> Custom Sub Race tag
 								</node>
