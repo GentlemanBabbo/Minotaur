@@ -33,6 +33,16 @@
 					<attribute id="VisualResource" type="guid" value="061bf3d6-10a4-7772-7bd2-f0008850a73f"/>
 					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
+		<!--Horns-->
+				<node id="CharacterCreationAppearanceVisual">
+		                    <attribute id="BodyShape" type="uint8" value="0"/>
+		                    <attribute id="BodyType" type="uint8" value="0"/>
+		                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>  <!-- male Strong -->
+		                    <attribute id="RaceUUID" type="guid" value="ae4f4634-2b7c-4c8e-a6c6-e15371ef3e4b"/>
+		                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+		                    <attribute id="UUID" type="guid" value="655f425c-c10b-47c1-8aad-8cae4c031c26"/>
+		                    <attribute id="VisualResource" type="guid" value="fab0f198-0be4-41b3-a51c-d0b163cd682e"/>
+		                </node>
 		<!--Hair-->
 
 		                <node id="CharacterCreationAppearanceVisual">
