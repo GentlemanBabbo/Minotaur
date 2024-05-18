@@ -588,6 +588,11 @@
 							<attribute id="MaterialID" type="FixedString" value="85a4068c-15e3-4b79-b722-95908574e86d" />
 							<attribute id="ObjectID" type="FixedString" value="Minotaur_M_NKD_Body.DGB_M_NKD_Body_A_Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" /> 
+							<attribute id="MaterialID" type="FixedString" value="5b450e93-5f94-65ed-d681-ceed14e61d09" />
+							<attribute id="ObjectID" type="FixedString" value="Minotaur_M_NKD_Body.Fur.1" />
+						</node>
 					</children>
 				</node>
 			</children>
