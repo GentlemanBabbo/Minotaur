@@ -933,7 +933,7 @@
 					<attribute id="Name" type="LSString" value="MinotaurBabbo_M_Base" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="00802469-021a-737a-5474-3aab21956990" />
+					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
