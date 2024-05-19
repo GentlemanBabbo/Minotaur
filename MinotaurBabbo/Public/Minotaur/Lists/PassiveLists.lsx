@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/> the passive list
+                    <attribute id="Passives" type="LSString" value="Passive_LabyrinthineRecall"/> the passive list
                     <attribute id="UUID" type="guid" value="d58ab707-42d7-42fc-873f-92b2a93c7cdc"/> the UUID, needs to be unique
                 </node>
             </children>
