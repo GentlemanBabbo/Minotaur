@@ -9,6 +9,20 @@
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Minotaur" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> base DGB reference
+					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="354dbdec-8977-0627-617d-624c0aa8e25c" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="406b439f-3633-fa5d-8db9-9ac54f0c59a0" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="c0eb00eb-dbdb-7341-d488-07358631734f" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="59f06882-cd53-b481-77bc-05860da05fc5" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="6aab4c38-5e18-6a85-2450-44fd7a87547f" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="3148efe8-f512-8676-8503-12671305048d" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="a85d1e0e-a976-f9df-bca7-159e0f36e4a8" />
+					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="4fb9faaa-734b-4904-975c-071cf5abbc4e" /> which models to load
 					<attribute id="Race" type="guid" value="ae4f4634-2b7c-4c8e-a6c6-e15371ef3e4b" /> define race as Custom Race
@@ -29,6 +43,20 @@
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Minotaur" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" /> base DGB reference
+					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="354dbdec-8977-0627-617d-624c0aa8e25c" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="406b439f-3633-fa5d-8db9-9ac54f0c59a0" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="c0eb00eb-dbdb-7341-d488-07358631734f" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="59f06882-cd53-b481-77bc-05860da05fc5" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="6aab4c38-5e18-6a85-2450-44fd7a87547f" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="3148efe8-f512-8676-8503-12671305048d" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="a85d1e0e-a976-f9df-bca7-159e0f36e4a8" />
+					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="32941a36-98ec-4cf8-9944-6f47c5ee5062" /> which models to load
 					<attribute id="Race" type="guid" value="ae4f4634-2b7c-4c8e-a6c6-e15371ef3e4b" /> define race as Custom Race
@@ -50,6 +78,20 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3975daae-d621-4a8a-a6bf-ab07654e6994" /> inherits from normal CustomRace body
+					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="354dbdec-8977-0627-617d-624c0aa8e25c" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="406b439f-3633-fa5d-8db9-9ac54f0c59a0" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="c0eb00eb-dbdb-7341-d488-07358631734f" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="59f06882-cd53-b481-77bc-05860da05fc5" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="6aab4c38-5e18-6a85-2450-44fd7a87547f" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="3148efe8-f512-8676-8503-12671305048d" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="a85d1e0e-a976-f9df-bca7-159e0f36e4a8" />
+					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="02aa6b55-d041-4e87-baf6-211b7c393a2e" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
@@ -73,6 +115,20 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e5315854-6206-42ad-b0ea-5ae36c8e9207" /> inherits from normal body Custom Race
 					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
+					<attribute id="VocalAnticipationResourceID" type="FixedString" value="354dbdec-8977-0627-617d-624c0aa8e25c" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="406b439f-3633-fa5d-8db9-9ac54f0c59a0" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="c0eb00eb-dbdb-7341-d488-07358631734f" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="59f06882-cd53-b481-77bc-05860da05fc5" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="6aab4c38-5e18-6a85-2450-44fd7a87547f" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="3148efe8-f512-8676-8503-12671305048d" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="a85d1e0e-a976-f9df-bca7-159e0f36e4a8" />
+					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="Stats" type="FixedString" value="Playable_M_Minotaur" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
