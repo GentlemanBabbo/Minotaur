@@ -178,12 +178,17 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="1e699d36-1f0d-45d7-9017-87daaa0bdb95" />
+							<attribute id="VisualResource" type="FixedString" value="03c1d919-4461-4c55-b7b6-7166b6fd0d83" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Horns" />
-							<attribute id="VisualResource" type="FixedString" value="655f425c-c10b-47c1-8aad-8cae4c031c26" />
+							<attribute id="VisualResource" type="FixedString" value="fab0f198-0be4-41b3-a51c-d0b163cd682e" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Beard" />
+							<attribute id="VisualResource" type="FixedString" value="061bf3d6-10a4-7772-7bd2-f0008850a73f" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
