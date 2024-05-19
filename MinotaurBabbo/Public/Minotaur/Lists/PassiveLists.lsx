@@ -8,6 +8,18 @@
                     <attribute id="Passives" type="LSString" value="Passive_LabyrinthineRecall"/> the passive list
                     <attribute id="UUID" type="guid" value="d58ab707-42d7-42fc-873f-92b2a93c7cdc"/> the UUID, needs to be unique
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_ImposingPresence"/> the passive list
+                    <attribute id="UUID" type="guid" value="ddce08f2-34b8-4ff3-9de2-0a889d393c09"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="SavageAttacksBabbo,RelentlessEnduranceBabbo"/> the passive list
+                    <attribute id="UUID" type="guid" value="d71038c3-1379-405c-aac2-4ae1c9c16572"/> the UUID, needs to be unique
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="SteelWill"/> the passive list
+                    <attribute id="UUID" type="guid" value="93893316-095d-4df6-9f38-430f50493af2"/> the UUID, needs to be unique
+                </node>
             </children>
         </node>
     </region>
