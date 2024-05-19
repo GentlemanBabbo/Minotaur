@@ -74,7 +74,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="e5315854-6206-42ad-b0ea-5ae36c8e9207" /> inherits from normal body Custom Race
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
-					<attribute id="Stats" type="FixedString" value="HeroElfMale" /> dont change
+					<attribute id="Stats" type="FixedString" value="Playable_M_Minotaur" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d44d5f5b-87be-443e-9680-648b69babc8c" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
