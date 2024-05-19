@@ -10,7 +10,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> base DGB reference
 					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="02aa6b55-d041-4e87-baf6-211b7c393a2e" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="4fb9faaa-734b-4904-975c-071cf5abbc4e" /> which models to load
 					<attribute id="Race" type="guid" value="ae4f4634-2b7c-4c8e-a6c6-e15371ef3e4b" /> define race as Custom Race
 					<children>
 						<node id="Tags">
@@ -30,7 +30,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" /> base DGB reference
 					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="d44d5f5b-87be-443e-9680-648b69babc8c" /> which models to load
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="32941a36-98ec-4cf8-9944-6f47c5ee5062" /> which models to load
 					<attribute id="Race" type="guid" value="ae4f4634-2b7c-4c8e-a6c6-e15371ef3e4b" /> define race as Custom Race
 					<children>
 						<node id="Tags">
