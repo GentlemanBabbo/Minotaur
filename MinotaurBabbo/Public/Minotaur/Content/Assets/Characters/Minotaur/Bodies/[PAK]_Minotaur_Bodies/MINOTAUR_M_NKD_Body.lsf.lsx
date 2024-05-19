@@ -933,7 +933,7 @@
 					<attribute id="Name" type="LSString" value="MinotaurBabbo_M_Base" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="c7362bee-be85-a2a1-075b-4861e61e2c32" />
+					<attribute id="SkeletonResource" type="FixedString" value="0a5ecbd1-1e87-f992-b884-ec81a1e568a2" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
@@ -1036,13 +1036,13 @@
 							<attribute id="PairElement2" type="FixedString" value="ae996c12-9f93-655f-6f04-f7bec8cef6eb" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>
-						<node id="AnimationSetOverrides">
+						<node id="AnimationSetOverrides"> Minotaur Animation
 							<attribute id="PairElement1" type="guid" value="51fed831-4aaf-42b6-3ab9-89588dfb45f3" />
 							<attribute id="PairElement2" type="FixedString" value="7b0b63d7-aeb3-f6b7-838e-2f55b60bb1a3" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
 						</node>						
 						<node id="AnimationWaterfall">
-							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />HRC_M_Base
+							<attribute id="Object" type="FixedString" value="c70c1f79-1fa6-4964-77a9-10047fb7dcfe" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="da9d3958-b0ff-644f-72d8-627d7767fd27" />
