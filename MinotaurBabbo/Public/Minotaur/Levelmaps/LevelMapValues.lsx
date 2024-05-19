@@ -5,18 +5,18 @@
         <node id="root">
             <children>
                 <node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="1d6"/>
-		    <attribute id="Level2" type="LSString" value="1d6"/>
-		    <attribute id="Level3" type="LSString" value="1d6"/>
-		    <attribute id="Level4" type="LSString" value="1d6"/>
-		    <attribute id="Level5" type="LSString" value="1d8"/>
-		    <attribute id="Level6" type="LSString" value="1d8"/>
-		    <attribute id="Level7" type="LSString" value="1d8"/>
-		    <attribute id="Level8" type="LSString" value="1d8"/>
-                    <attribute id="Level9" type="LSString" value="1d10"/>
-                    <attribute id="Level10" type="LSString" value="1d10"/>
-                    <attribute id="Level11" type="LSString" value="1d10"/>
-                    <attribute id="Level12" type="LSString" value="1d10"/>
+                    <attribute id="Level1" type="LSString" value="2d6"/>
+		    <attribute id="Level2" type="LSString" value="2d6"/>
+		    <attribute id="Level3" type="LSString" value="2d6"/>
+		    <attribute id="Level4" type="LSString" value="2d6"/>
+		    <attribute id="Level5" type="LSString" value="3d6"/>
+		    <attribute id="Level6" type="LSString" value="3d6"/>
+		    <attribute id="Level7" type="LSString" value="3d6"/>
+		    <attribute id="Level8" type="LSString" value="3d6"/>
+                    <attribute id="Level9" type="LSString" value="4d6"/>
+                    <attribute id="Level10" type="LSString" value="4d6"/>
+                    <attribute id="Level11" type="LSString" value="4d6"/>
+                    <attribute id="Level12" type="LSString" value="4d6"/>
                     <attribute id="Name" type="FixedString" value="HornStrikeDamage"/>
                     <attribute id="UUID" type="guid" value="1390819c-ff0f-46d2-a5b2-0065510f9250"/>
                 </node>
