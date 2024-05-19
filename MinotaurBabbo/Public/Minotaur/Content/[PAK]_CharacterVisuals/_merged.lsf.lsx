@@ -5,7 +5,7 @@
 		<node id="CharacterVisualBank">
 			<children>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" /> base animations
+					<attribute id="BaseVisual" type="FixedString" value="30d7daae-6392-4276-8b7c-c8236199b1cc" />
 					<attribute id="BodySetVisual" type="FixedString" value="d4954688-0a2b-440e-8acb-a36c67847e7c" /> body model
 					<attribute id="ID" type="FixedString" value="ff722522-fafa-4019-a398-276a462dd315" /> must be unique		
 					<attribute id="Localized" type="bool" value="False" />
@@ -153,7 +153,7 @@
 					</children>
 				</node>
 				<node id="Resource">
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<attribute id="BaseVisual" type="FixedString" value="30d7daae-6392-4276-8b7c-c8236199b1cc" />
 					<attribute id="BodySetVisual" type="FixedString" value="5b9451c2-6a93-4881-b640-7eb2cc5ab47c" />
 					<attribute id="ID" type="FixedString" value="d44d5f5b-87be-443e-9680-648b69babc8c" />
 					<attribute id="Name" type="LSString" value="Minotaur_Male_LW_Player_Strong" />
