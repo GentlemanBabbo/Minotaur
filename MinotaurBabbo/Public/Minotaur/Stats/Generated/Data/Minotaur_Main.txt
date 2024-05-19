@@ -32,6 +32,24 @@ data "Description" "he4071f8ag767bg4921gadafg4a5552ee53ad;2"
 data "Boosts" "Advantage(Skill,Intimdation)"
 data "Properties" "Highlighted"
 
+new entry "SavageAttacksBabbo"
+type "PassiveData"
+data "DisplayName" "hb8d3cdb1gbe64g4483gaa79g39c6af9b9b38;2"
+data "Description" "h2821c66dg7775g4806g920bg9d563dfdd02e;4"
+data "Icon" "PassiveFeature_SavageAttacks"
+data "Properties" "Highlighted"
+data "Boosts" "CriticalHitExtraDice(1,MeleeWeaponAttack);CriticalHitExtraDice(1,MeleeOffHandWeaponAttack)"
+
+new entry "RelentlessEnduranceBabbo"
+type "PassiveData"
+data "DisplayName" "h61b90d8agda32g4e0bg8f19g2459c39402fa;2"
+data "Description" "h56e6bd5cg145eg43e6gbb99ge9bfe22e2870;2"
+data "DescriptionParams" "RegainHitPoints(1)"
+data "Icon" "PassiveFeature_RelentlessEndurance"
+data "Properties" "Highlighted;OncePerLongRest"
+data "StatsFunctorContext" "OnCreate;OnLongRest"
+data "StatsFunctors" "ApplyStatus(SELF,RELENTLESS_ENDURANCE,100,-1)"
+
 <!--------------------- Minotaur Spells --------------------->
 
 new entry "Target_HornStrike"
