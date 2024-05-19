@@ -53,7 +53,7 @@
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="02aa6b55-d041-4e87-baf6-211b7c393a2e" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="d205fd1a-e0eb-4b5b-bc12-14feddbb8bf8" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
@@ -78,7 +78,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d44d5f5b-87be-443e-9680-648b69babc8c" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
-					<attribute id="Race" type="guid" value="4b571ca6-3b3d-4664-9d4c-672e6dd11274" /> define race as Custom Race
+					<attribute id="Race" type="guid" value="d205fd1a-e0eb-4b5b-bc12-14feddbb8bf8" /> define race as Custom Race
 					<children>
 						<node id="Tags">
 							<children>
