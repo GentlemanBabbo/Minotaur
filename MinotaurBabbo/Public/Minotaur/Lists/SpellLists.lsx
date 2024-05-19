@@ -4,15 +4,20 @@
     <region id="SpellLists">
         <node id="root">
             <children>   
-                <node id="SpellList">Spelllist Cantrips
+                <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value="Horns"/> 
                     <attribute id="Spells" type="LSString" value="Target_HornStrike"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="f4970bf5-136d-4ea6-8d3c-987417d254ad"/> the UUID, needs to be unique
                 </node>
-                <node id="SpellList">Spelllist Cantrips
+                <node id="SpellList">Spelllist
                     <attribute id="Comment" type="LSString" value="Minotaur Bull Rush"/> 
                     <attribute id="Spells" type="LSString" value="Rush_Charge_MinotaurBabbo"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="f0376e23-42af-4cbf-9181-e9e1464c10f6"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value="Minotaur Rage"/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Reckless_MinotaurBabbo"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="65ab2a5e-e13e-496f-a7ad-ab111d34054a"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
