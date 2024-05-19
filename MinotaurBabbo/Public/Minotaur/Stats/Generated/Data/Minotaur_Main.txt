@@ -9,4 +9,11 @@ data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
 
+new entry "Playable_M_Minotaur"
+type "Character"
+using "_Hero"
+data "DefaultBoosts" "ScaleMultiplier(1.33)"
+data "Weight" "135"
+data "StepsType" "Hooves"
+
 <!--------------------- Minotaur Spells --------------------->
