@@ -5,40 +5,6 @@
         <node id="root">
             <children>
                 <node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="1d4"/>
-		    <attribute id="Level2" type="LSString" value="1d4"/>
-		    <attribute id="Level3" type="LSString" value="1d4"/>
-		    <attribute id="Level4" type="LSString" value="1d4"/>
-		    <attribute id="Level5" type="LSString" value="1d6"/>
-		    <attribute id="Level6" type="LSString" value="1d6"/>
-		    <attribute id="Level7" type="LSString" value="1d6"/>
-		    <attribute id="Level8" type="LSString" value="1d6"/>
-                    <attribute id="Level9" type="LSString" value="1d8"/>
-                    <attribute id="Level10" type="LSString" value="1d8"/>
-                    <attribute id="Level11" type="LSString" value="1d8"/>
-                    <attribute id="Level12" type="LSString" value="1d8"/>
-                    <attribute id="Name" type="FixedString" value="JuggernautShieldDamage"/>
-                    <attribute id="PreferredClassUUID" type="guid" value="6fc0ae58-628b-4293-8fc8-80cde68a6751"/>
-                    <attribute id="UUID" type="guid" value="4f1133c3-ee64-4beb-8471-d9783ad0dac6"/>
-                </node>
-                <node id="LevelMapSeries">
-                    <attribute id="Level1" type="LSString" value="2d6"/>
-		    <attribute id="Level2" type="LSString" value="2d6"/>
-		    <attribute id="Level3" type="LSString" value="2d6"/>
-		    <attribute id="Level4" type="LSString" value="2d6"/>
-		    <attribute id="Level5" type="LSString" value="3d6"/>
-		    <attribute id="Level6" type="LSString" value="3d6"/>
-		    <attribute id="Level7" type="LSString" value="3d6"/>
-		    <attribute id="Level8" type="LSString" value="3d6"/>
-                    <attribute id="Level9" type="LSString" value="4d6"/>
-                    <attribute id="Level10" type="LSString" value="4d6"/>
-                    <attribute id="Level11" type="LSString" value="4d6"/>
-                    <attribute id="Level12" type="LSString" value="4d6"/>
-                    <attribute id="Name" type="FixedString" value="JuggernautShieldThrustDamage"/>
-                    <attribute id="PreferredClassUUID" type="guid" value="6fc0ae58-628b-4293-8fc8-80cde68a6751"/>
-                    <attribute id="UUID" type="guid" value="bc6e2a47-7a17-40dd-865a-dbebfea38d05"/>
-                </node>
-                <node id="LevelMapSeries">
                     <attribute id="Level1" type="LSString" value="1d6"/>
 		    <attribute id="Level2" type="LSString" value="1d6"/>
 		    <attribute id="Level3" type="LSString" value="1d6"/>
@@ -51,9 +17,24 @@
                     <attribute id="Level10" type="LSString" value="1d10"/>
                     <attribute id="Level11" type="LSString" value="1d10"/>
                     <attribute id="Level12" type="LSString" value="1d10"/>
-                    <attribute id="Name" type="FixedString" value="RavagerFistDamage"/>
-                    <attribute id="PreferredClassUUID" type="guid" value="6fc0ae58-628b-4293-8fc8-80cde68a6751"/>
-                    <attribute id="UUID" type="guid" value="40920c10-ff6a-4384-ae70-e1c4b4b2026a"/>
+                    <attribute id="Name" type="FixedString" value="HornStrikeDamage"/>
+                    <attribute id="UUID" type="guid" value="1390819c-ff0f-46d2-a5b2-0065510f9250"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="3d6"/>
+		    <attribute id="Level2" type="LSString" value="3d6"/>
+		    <attribute id="Level3" type="LSString" value="3d6"/>
+		    <attribute id="Level4" type="LSString" value="3d6"/>
+		    <attribute id="Level5" type="LSString" value="4d6"/>
+		    <attribute id="Level6" type="LSString" value="4d6"/>
+		    <attribute id="Level7" type="LSString" value="4d6"/>
+		    <attribute id="Level8" type="LSString" value="4d6"/>
+                    <attribute id="Level9" type="LSString" value="5d6"/>
+                    <attribute id="Level10" type="LSString" value="5d6"/>
+                    <attribute id="Level11" type="LSString" value="5d6"/>
+                    <attribute id="Level12" type="LSString" value="5d6"/>
+                    <attribute id="Name" type="FixedString" value="MinotaurChargeDamage"/>
+                    <attribute id="UUID" type="guid" value="21481591-a41b-4941-80d6-dc9920bf4109"/>
                 </node>
             </children>
         </node>
