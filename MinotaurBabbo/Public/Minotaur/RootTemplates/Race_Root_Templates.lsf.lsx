@@ -8,7 +8,7 @@
 					<attribute id="MapKey" type="FixedString" value="3975daae-d621-4a8a-a6bf-ab07654e6994" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Female_Minotaur" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="366faff6-1e72-45c8-8d03-4eeaee6444a4" /> base DGB reference
+					<attribute id="ParentTemplateId" type="FixedString" value="72fc6418-6572-466e-bdc0-d7321006bf96" />
 					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
 					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
 					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
@@ -42,7 +42,7 @@
 					<attribute id="MapKey" type="FixedString" value="e5315854-6206-42ad-b0ea-5ae36c8e9207" /> must be unique
 					<attribute id="Name" type="LSString" value="BASE_Main_Male_Minotaur" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="97ad09df-c188-4e39-bfd0-91c95c6379c4" /> base DGB reference
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
 					<attribute id="VocalDeathResourceID" type="FixedString" value="9e4088b3-3aab-0fef-9419-416acf2efd7a" />
 					<attribute id="VocalDodgeResourceID" type="FixedString" value="dd554451-f0f5-c901-0018-1116e7e4cb44" />
 					<attribute id="VocalPainResourceID" type="FixedString" value="9e585454-8cf4-01d6-cec8-c61bf030de20" />
@@ -92,6 +92,7 @@
 					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
 					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
 					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" /> stronk armour set
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="02aa6b55-d041-4e87-baf6-211b7c393a2e" /> which models to load
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
@@ -99,6 +100,9 @@
 					<children>
 						<node id="Tags">
 							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="248abd3f-38a2-4157-92f0-0f1b21394bbb" /> Custom Sub Race tag
 								</node>
@@ -129,6 +133,7 @@
 					<attribute id="VocalEffortsResourceID" type="FixedString" value="ef7184f3-a655-7d6f-cbd2-bf0f750ecda8" />
 					<attribute id="VocalInitiativeResourceID" type="FixedString" value="e9511f3b-bf28-3a19-bd3e-44c7c5ad708e" />
 					<attribute id="VocalWeakResourceID" type="FixedString" value="319b4d60-9e23-61d1-ef15-1ea917be9301" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />stronk armour set
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
 					<attribute id="Stats" type="FixedString" value="Playable_M_Minotaur" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> dont change
@@ -138,6 +143,9 @@
 					<children>
 						<node id="Tags">
 							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" /> tag for stronk
+								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="248abd3f-38a2-4157-92f0-0f1b21394bbb" /> Custom Sub Race tag
 								</node>
