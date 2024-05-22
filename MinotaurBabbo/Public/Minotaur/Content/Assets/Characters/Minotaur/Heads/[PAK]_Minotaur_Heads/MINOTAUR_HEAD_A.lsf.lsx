@@ -2436,7 +2436,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="MaterialID" type="FixedString" value="283ba5b9-eddd-277c-6b76-27c7d67b5fad" />
 							<attribute id="ObjectID" type="FixedString" value="Minotaur_Head_A.2MINOTAUR_Head_A_Teeth_Mesh.1" />
 						</node>
 						<node id="Objects">
