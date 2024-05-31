@@ -2058,7 +2058,7 @@
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="0b4749a0-458f-4e47-81cd-bf5b58389403" />
@@ -2107,7 +2107,7 @@
 							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="1102eda4-7e86-4b0d-8ff4-625ddd84727b" />
